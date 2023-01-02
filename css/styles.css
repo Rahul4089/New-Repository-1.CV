@@ -1,0 +1,296 @@
+body{
+margin: 0px;
+text-align: center;
+}
+h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Top_Division{
+background-color: #FFFFD0;
+position: relative;
+width: 100%;
+height:800px;
+display: inline-block;
+align-items: center;
+align-content: center;
+}
+.Middle_Division{
+    position: relative;
+    width: 100%;
+    height: 1500px;
+
+}
+.Profile{
+    position: relative;
+    width: 100%;
+    height: 400px;
+
+}
+.Lower_Division{
+    position: relative;
+    height: 200px;
+    width: 100%;
+}
+
+#Mainhead{
+    display: inline-block;
+    color: #A555EC;
+    font-family: 'Sacramento', cursive;
+    width: 800px;
+    font-size: 90px;
+    position: absolute;
+    top: 200px;
+    left: 25%;
+}
+.Para1{
+    display: inline-block;
+    position: absolute;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #A555EC;
+    width: 500px;
+    top: 400px; 
+    left:35%;
+    margin:0 auto 0 auto
+}
+
+.Sc{
+    position: absolute;
+    left: 21%;
+    bottom:0%;
+}
+
+.Cloud1{
+    position:absolute;
+    display: inline-block;
+    height:100px;
+    width: 100px;
+    left: 80%;
+    top: 20%;
+}
+.cloud2{
+    position:absolute;
+    height:100px;
+    width: 100px;
+    left: 10%;
+    bottom: 20%;
+}
+.ATop_Division{
+    height: 70px;
+    width: 100%;
+    display:inline-block ;
+    background-color: #FFFFD0;
+    position: fixed;
+    border: 2px 2px 2px 2px;
+
+
+}
+.Top_Bar{
+    display: inline-block;
+    position:relative;
+    right: 20px;
+}
+
+.Contact_Me{
+    position: absolute;
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    top:20px;
+    left: 20px;
+    font-family: 'Merriweather', serif;
+    size: 50px;
+    font-weight: bold;
+}
+.Profile_pick{
+    position:absolute;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    top: 100px;
+    left: 45%;
+    border-radius: 50%;
+
+}
+
+.Para2{
+    position: absolute;
+    display: inline block;
+    bottom: 10px;
+    left: 36%;
+    width: 450px;
+    font-size: 1.4rem;
+    font-family: 'Montserrat Alternates', sans-serif;
+    line-height: 2;
+}
+
+.hello{
+    position:absolute;
+    display: inline block;
+    top: 15px;
+    left: 46%;
+    font-family: 'Merriweather', serif;
+}
+
+.Skill_row{
+    position: relative;
+    width: 100%;
+    height: 400px;
+
+}
+.Skill_row1{
+position: relative;
+    width: 100%;
+    height: 400px;
+}
+
+.Contact_Details{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+}
+
+.table1{
+    display: inline-block;
+    position: absolute;
+    width: 300px;
+    font-size: 20px;
+    top: 210px;
+    left: 60%;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bold;
+    line-height: 2;
+}
+
+.header1{
+    display: inline-block;
+    position: absolute;
+    color: #A555EC;
+    font-weight: bold;
+    top: 150px;
+    font-size: 25px;
+    left: 61%;
+    font-family: 'Merriweather', serif;
+    font-size: x-large;
+}
+
+.What1{
+    display: inline block;
+    position: absolute;
+    color: #A555EC;
+    top: 50px;
+    left: 43%;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+hr{
+    position: absolute;
+    display: inline-block;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    left: 46%;
+}
+
+.Data_Emogi{
+    display: inline-block;
+    position: absolute;
+    top: 170px;
+    width: 150px;
+    height: 150px;
+    left: 25%;
+}
+
+.hr1{
+    position: absolute;
+    display: inline-block;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 2px;
+    width: 20%;
+    left: 38%;
+    top: 210px;
+}
+.face{
+    position: absolute;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    top: 140px;
+    left: 76%;
+}
+
+.Para3{
+    position: relative;
+    top: 30%;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin:0 auto 0 auto;
+    line-height: 2;
+}
+.Connect{
+    position: absolute;
+    font-family: 'Montserrat Alternates', sans-serif;
+    top: 10px;
+    color: #A555EC;
+    display: inline-block;
+    left: 43%;
+}
+.Call_GIF{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    left:57%;
+    top: 25px;
+}
+.Check_img{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    Left:30px;
+}
+
+.linkedin{
+    display: inline-block;
+    position: absolute;
+    left:0px;   
+    height: 200px;
+    width: 20%;
+}
+.Instagram{
+    display: inline-block;
+    position: absolute;
+    left:40%;   
+    height: 200px;
+    width: 20%;
+}
+.Email{
+    display: inline-block;
+    position: absolute;
+    left:75%;   
+    height: 200px;
+    width: 20%;
+}
+.External_Links{
+    position: absolute;
+    font-family:'Montserrat Alternates', sans-serif ;
+    color: #A555EC;
+    font-weight: bold;
+    font-size: 25px;
+    top:30px
+}
+
+
